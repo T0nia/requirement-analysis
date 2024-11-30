@@ -46,3 +46,11 @@ Functional requirements describe what the system should do. Examples include Cus
 ## Non-functional Requirements
 Non-functional requirements describe how the system should perform. Examples include Hotel or Property Management Service.
 
+# Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+## Benefits of Use Case Diagrams
+ - Provide a clear visual representation of system functionalities.
+ - Help in identifying and organizing system requirements.
+ - Facilitate communication among stakeholders and development team.
+
